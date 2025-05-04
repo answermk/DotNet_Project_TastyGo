@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\Admin",
+    "\\Backend\\Admin\\Controllers"
+  ],
+  "SelectedNode": "\\Backend\\Admin\\Controllers\\NotificationController.cs",
+  "PreviewInSolutionExplorer": false
+}
